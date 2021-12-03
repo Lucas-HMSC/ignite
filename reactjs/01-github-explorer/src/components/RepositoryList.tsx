@@ -4,8 +4,14 @@ import { RepositoryItem } from "./RepositoryItem";
 
 import '../styles/repository.scss';
 
-export function RepositoryFunction() {
-  const [repositories, setRepositories] = useState([]);
+interface Repository {
+  name: string;
+  description: string;
+  html_url: string;
+}
+
+export function RepositoryList() {
+  const [repositories, setRepositories] = useState<Repository[]>([]);
 
   useEffect(() => {
     fetch('https://api.github.com/users/Lucas-HMSC/repos')
