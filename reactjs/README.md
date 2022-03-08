@@ -13,3 +13,10 @@
    * Projetos:
       * [dtmoney](https://github.com/Lucas-HMSC/ignite/tree/main/reactjs/02-dtmoney): projeto desenvolvido durante as aulas do Chapter II.
       * [Desafio 02](https://github.com/Lucas-HMSC/ignite-reactjs-desafio-02): nesse desafio, o objetivo foi desenvolver um Hook para gerenciar um carrinho de compras de uma loja virtual, tendo as seguintes funcionalidades: adicionar/remover um produto do carrinho e alterar a quantidade dos mesmos, cálculo dos preços sub-total e total do carrinho, validação de estoque para cada produto, gerenciamento de mensagens de erro, etc.
+### Chapter III
+   * **Fundamentos do Next.js**: nesse módulo é abordado diversas funcionalidades incríveis do Next.js, por exemplo como ele transforma a maneira de desenvolver aplicações front-end assim como conceitos importantes como SSR (Server Side Rendering) e SSG (Static Site Generation).
+   * **Back-end no Front-end**: nesse módulo é visto como o front-end se transformou nos últimos anos com a possibilidade de implementar funções back-end (serverless) executando em um ambiente front-end.
+   * **Front-end JAMStack**: nesse módulo é reforçado o conceito de JAMStack, e como conectar a aplicações front-end com um CMS.
+
+   * Projetos:
+      * [ig.news](https://github.com/Lucas-HMSC/ignite/tree/main/reactjs/03-ignews): projeto desenvolvido durante as aulas do Chapter III.
