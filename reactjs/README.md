@@ -7,6 +7,11 @@
       * [GitHub Explorer](https://github.com/Lucas-HMSC/ignite/tree/main/reactjs/01-github-explorer): projeto desenvolvido durante as aulas do Chapter I.
       * [Desafio 01](https://github.com/Lucas-HMSC/ignite-reactjs-desafio-01): nesse desafio, foi criado uma aplicação para treinar o aprendizado no ReactJS. O principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
       * [Desafio Complementar 01](https://github.com/Lucas-HMSC/ignite-reactjs-desafio-complementar-01): nesse desafio o objetivo foi dividir uma aplicação em componentes afim de isolar as responsabilidades e facilitar a manutenção do código.
+### Chapter I (Atualizado)
+   * Nesse módulo é criado uma aplicação utilizando o Vite para exemplificar os conceitos mais importantes do React, entre eles estão componentização, propriedades, estados, imutabilidade e hooks, além de aplicar o TypeScript no projeto para adicionar tipagem estática à aplicação.
+
+   * Projetos:
+      * [Ignite Feed](https://github.com/Lucas-HMSC/ignite/tree/main/reactjs/01-ignite-feed): projeto desenvolvido durante as aulas do Chapter I.
 ### Chapter II
    * Nesse módulo é construído uma aplicação front-end web completa utilizando conceitos e ferramentas importantes do ecossistema React como Styled Components, MirageJS, Context API, hooks, Axios e muito mais.
 
